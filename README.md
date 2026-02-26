@@ -2,13 +2,6 @@
 
 > AI 对话式电脑导购，帮你 24 小时接单
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Python](https://img.shields.io/badge/Python-3.10+-blue.svg)](https://www.python.org/)
-[![Vue](https://img.shields.io/badge/Vue-3.4+-brightgreen.svg)](https://vuejs.org/)
-[![FastAPI](https://img.shields.io/badge/FastAPI-0.109+-green.svg)](https://fastapi.tiangolo.com/)
-
-简体中文
-
 <p align="center">
   <img src="docs/产品文档/产品截图/宣传海报图.png" alt="小遥配配宣传海报">
 </p>
