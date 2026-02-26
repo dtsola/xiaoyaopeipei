@@ -251,15 +251,11 @@
 </p>
 
 <p align="center">
-  📺 <b>如需查看演示，请联系微信：dtsola（备注：小遥配配演示）</b>
-</p>
-
-<p align="center">
   <b>源代码定价：人民币 199元</b>
 </p>
 
 <p align="center">
-  联系微信：dtsola（备注：小遥配配源码）
+  📺 <b>如需查看演示或购买源码，请联系微信：dtsola</b>
 </p>
 
 <p align="center">
@@ -267,7 +263,7 @@
 </p>
 
 <p align="center">
-  <small>扫码添加微信，获取完整源代码</small>
+  <small>扫码添加微信，备注"小遥配配"</small>
 </p>
 
 ---
